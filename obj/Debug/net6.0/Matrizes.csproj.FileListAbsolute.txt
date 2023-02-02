@@ -1,0 +1,15 @@
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\bin\Debug\net6.0\Matrizes.exe
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\bin\Debug\net6.0\Matrizes.dll
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\Matrizes.dll
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\refint\Matrizes.dll
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache
+F:\Desenvolvimento\Udemy\C#\Seção 6-Comportamento de memória, arrays, listas\ExercícioFixação\ExercicioMatrizes\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll
